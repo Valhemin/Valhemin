@@ -10,6 +10,8 @@ With about 3 years of hands-on experience as a passionate ReactJS front-end deve
 * ✉️  You can contact me at [nguyenxhai.dev@gmail.com](mailto:nguyenxhai.dev@gmail.com)
 * 🧠  I'm learning Devops
 
+<img align="right" alt="编程动图" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+
 ### Skills
 
 <p align="left">
